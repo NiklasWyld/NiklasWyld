@@ -1,5 +1,5 @@
 # Hi there, I'm Niklas! 😀
-## I'm Developer of [Raiser]
+## A java and python developer
 
 Welcome to my Github! 🤖
 
