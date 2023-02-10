@@ -1,20 +1,9 @@
 # Hi there, I'm Niklas! 😀
-## A java and python developer
 
-Welcome to my Github! 🤖
+Hello, I am Niklas Wild and come from Germany. I have been fascinated by technology since I was a child and started programming at the age of 11. The world of computer science fascinates me in every way and I am always looking for new challenges and opportunities to develop my skills.
 
-You can contact me on [niklaspeter123#7578]. 
+The projects I am currently working on are always pinned. But you can also find other great projects on my GitHub.
 
-There will be many cool projects here in the future! 🚀
+You can find all my links on [Linktree].
 
-### Raiser
-
-If you have problems, just join our [Help Server] 
-
-### Community Server
-If you feel like chatting and talking, just come to our [Discord Community Server]! 😉
-
-[Raiser]: https://bit.ly/raiser-bot
-[Help Server]: https://discord.gg/5erRk6HWrA
-[Discord Community Server]: https://discord.gg/MhKNTMXx9x
-[niklaspeter123#7578]: https://discord.com/users/586193546017505281
+[linktree]: https://linktr.ee/niklaswyld
